@@ -5,6 +5,8 @@
 Using Seaborn to practice HeatMaps plots
 
 ---
-**HeatMap #1** :point_right: [code here!](https://raw.githubusercontent.com/nicoambrosis/Practice-Heat_Maps/main/mpg_Heat_map.ipynb)
+**HeatMap #1** :point_right: [code here!](https://github.com/nicoambrosis/Practice-Heat_Maps/blob/main/mpg_Heat_map.ipynb)
+
+![HeatMap_#1](https://github.com/nicoambrosis/Practice-Heat_Maps/blob/main/mpg_Heat_Map.png)
 
 
